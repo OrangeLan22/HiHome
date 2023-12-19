@@ -1,0 +1,47 @@
+[
+  {
+    "icon": "Github",
+    "name": "GitHub",
+    "link": "https://github.com/"
+  },
+  {
+    "icon": "Robot",
+    "name": "天工AI",
+    "link": "https://search.tiangong.cn/"
+  },
+  {
+    "icon": "Leanpub",
+    "name": "学习通",
+    "link": "https://www.chaoxing.com/"
+  },
+  {
+    "icon": "CompactDisc",
+    "name": "云音乐",
+    "link": "https://music.163.com/"
+  },
+  {
+    "icon": "Compass",
+    "name": "起始页",
+    "link": "https://limestart.cn/"
+  },
+  {
+    "icon": "Code",
+    "name": "CSDN",
+    "link": "https://www.csdn.net/"
+  },
+  {
+    "icon": "Fire",
+    "name": "今日热榜",
+    "link": "https://hot.imsyy.top/"
+  },
+  {
+    "icon": "Tv",
+    "name": "bilibili",
+    "link": "https://www.bilibili.com"
+  },
+  {
+    "icon": "Tiktok",
+    "name": "抖音",
+    "link": "https://www.douyin.com/"
+  }
+]

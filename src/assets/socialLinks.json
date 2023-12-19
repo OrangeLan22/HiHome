@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Github",
+    "icon": "/images/icon/github.png",
+    "tip": "去 Github 主页看看",
+    "url": "https://github.com/OrangeLan22"
+  },
+  {
+    "name": "BiliBili",
+    "icon": "/images/icon/bilibili.png",
+    "tip": "(゜-゜)つロ 干杯 ~",
+    "url": "https://space.bilibili.com/382198491"
+  },
+  {
+    "name": "QQ",
+    "icon": "/images/icon/qq.png",
+    "tip": "要联系我吗 ？",
+    "url": "https://res.abeim.cn/api/qq/?qq=1820682008"
+  },
+  {
+    "name": "Email",
+    "icon": "/images/icon/email.png",
+    "tip": "要接收文件吗 ？",
+    "url": "mailto:chengblue@vip.qq.com"
+  }
+]
